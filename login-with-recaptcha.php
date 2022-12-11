@@ -4,7 +4,7 @@
 * Description: Simply protect your WordPress against spam comments and brute-force attacks, thanks to Google reCAPTCHA!
 * Version: 2.9
 * Author: Prathap Rathod
-* Author URI: https://www.novami.cz
+* Author URI: https://www.prathaprathod.in
 * License: GPL3
 * Text Domain: login-with-recaptcha
 */
